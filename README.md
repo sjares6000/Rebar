@@ -1,0 +1,2 @@
+# Rebar
+Bar ideas
